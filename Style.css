@@ -1,0 +1,164 @@
+/* Estilo para o corpo do documento */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Estilo para o cabeçalho principal */
+.core {
+    text-align: center;
+    font-size: 36px;
+    color: #333;
+    margin: 20px auto 20px auto;
+}
+
+/* Estilo para a seção pessoal */
+.pessoal {
+    width: 70%;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto 20px auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.pessoal h1 {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.pessoal h2 {
+    font-size: 18px;
+    color: #267013;
+    margin-top: 5px;
+}
+
+.pessoal p {
+    margin: 5px 0;
+}
+
+.redes-sociais a {
+    color: #267013;
+}
+
+.pessoal img {
+    max-width: 10%;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+/* Estilo para a seção de objetivo */
+.obj {
+    width: 70%;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.obj h2 {
+    font-size: 24px;
+}
+
+/* Estilo para a seção de experiência */
+.xp {
+    width: 70%;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.xp h2 {
+    font-size: 24px;
+}
+
+.xp h4 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.xp h5 {
+    font-size: 16px;
+    color: #267013;
+    margin-top: 5px;
+}
+
+.xp ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+/* Estilo para a seção de linguagens */
+.linguagens {
+    width: 70%;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.linguagens h2 {
+    font-size: 24px;
+}
+
+.linguagens h5 {
+    font-size: 16px;
+    color: #267013;
+    margin-top: 5px;
+}
+
+/* Estilo para a seção de educação */
+.Educação {
+    width: 70%;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.Educação h2 {
+    font-size: 24px;
+}
+
+.Educação h4 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.Educação h5 {
+    font-size: 16px;
+    color: #267013;
+    margin-top: 5px;
+}
+
+/* Estilo para a seção de cursos */
+.cursos {
+    width: 70%;
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.cursos h2 {
+    font-size: 24px;
+}
+
+.cursos h4 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.cursos h5 {
+    font-size: 16px;
+    color: #267013;
+    margin-top: 5px;
+}
